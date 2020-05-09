@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "gaza_no_fishing_areas",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "object_id": 0, "type_en": "No Fishing Area", "type_fr": "Zone de pêche interdite", "type_es": "Zona prohibida para la pesca", "type_he": "אזור אסור לדיג", "type_ar": "منطقة يمنع فيها الصيد" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 34.06962, 31.47843 ], [ 34.09697, 31.45451 ], [ 34.15138, 31.40686 ], [ 34.19497, 31.36864 ], [ 34.23298, 31.33526 ], [ 34.21832, 31.32433 ], [ 33.94416, 31.56284 ], [ 33.95906, 31.57496 ], [ 34.06962, 31.47843 ] ] ] ] } },
+{ "type": "Feature", "properties": { "object_id": 1, "type_en": "No Fishing Area", "type_fr": "Zone de pêche interdite", "type_es": "Zona prohibida para la pesca", "type_he": "אזור אסור לדיג", "type_ar": "منطقة يمنع فيها الصيد" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 34.49151, 31.59499 ], [ 34.47671, 31.57559 ], [ 34.3799, 31.63204 ], [ 34.31413, 31.67036 ], [ 34.28226, 31.68902 ], [ 34.14904, 31.76674 ], [ 34.16315, 31.78686 ], [ 34.49151, 31.59499 ] ] ] ] } }
+]
+}

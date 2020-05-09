@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "gaza_fishing_lines",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "object_id": 1, "date": "09\/1995", "limit_mn": "20", "context_en": "Oslo Accords", "context_fr": "Accords d'Oslo", "context_es": "Acuerdos de Oslo", "context_he": "הסכמי אוסלו", "context_ar": "اتفاقية أوسلو" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 33.95906, 31.57496 ], [ 34.14904, 31.76674 ] ] ] } },
+{ "type": "Feature", "properties": { "object_id": 2, "date": "04\/2006", "limit_mn": "10", "context_en": "", "context_he": "", "context_ar": "" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 34.09697, 31.45451 ], [ 34.20448, 31.56155 ], [ 34.26163, 31.51563 ] ] ] } },
+{ "type": "Feature", "properties": { "object_id": 3, "date": "10\/2006", "limit_mn": "6", "context_en": "", "context_he": "", "context_ar": "" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 34.15138, 31.40686 ], [ 34.3799, 31.63204 ] ] ] } },
+{ "type": "Feature", "properties": { "object_id": 4, "date": "03\/2009", "limit_mn": "3", "context_en": "", "context_he": "", "context_ar": "" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 34.19497, 31.36864 ], [ 34.43123, 31.60214 ] ] ] } }
+]
+}

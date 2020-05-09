@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "five_fingers_plan",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "object_id": 1, "radius": 10, "name_en": "\"Five Finger\" Plan", "name_fr": "Plan des \"Cinq doigts\"", "name_es": "Plan de los \"Cinco Dedos\"", "name_he": "תכנית \"חמש האצבעות\"", "name_ar": "خطة الأصابع الخمس (الممرات الخمس)" }, "geometry": { "type": "Point", "coordinates": [ 34.52189, 31.55766 ] } },
+{ "type": "Feature", "properties": { "object_id": 2, "radius": 6, "name_en": "\"Five Finger\" Plan", "name_fr": "Plan des \"Cinq doigts\"", "name_es": "Plan de los \"Cinco Dedos\"", "name_he": "תכנית \"חמש האצבעות\"", "name_ar": "خطة الأصابع الخمس (الممرات الخمس)" }, "geometry": { "type": "Point", "coordinates": [ 34.41338, 31.4657 ] } },
+{ "type": "Feature", "properties": { "object_id": 3, "radius": 6, "name_en": "\"Five Finger\" Plan", "name_fr": "Plan des \"Cinq doigts\"", "name_es": "Plan de los \"Cinco Dedos\"", "name_he": "תכנית \"חמש האצבעות\"", "name_ar": "خطة الأصابع الخمس (الممرات الخمس)" }, "geometry": { "type": "Point", "coordinates": [ 34.33705, 31.38385 ] } },
+{ "type": "Feature", "properties": { "object_id": 4, "radius": 6, "name_en": "\"Five Finger\" Plan", "name_fr": "Plan des \"Cinq doigts\"", "name_es": "Plan de los \"Cinco Dedos\"", "name_he": "תכנית \"חמש האצבעות\"", "name_ar": "خطة الأصابع الخمس (الممرات الخمس)" }, "geometry": { "type": "Point", "coordinates": [ 34.28555, 31.3112 ] } }
+]
+}
